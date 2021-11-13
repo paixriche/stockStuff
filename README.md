@@ -1,6 +1,6 @@
 # stocks
 
-Fetch data from yahoo finance
+Fetch data from yahoo finance and do crazy stuff with it
 
 ## borsdata
 Navn hentet/inspirert av svensk nettside som gjør noe av det samme.
